@@ -1,0 +1,9 @@
+@article{ge2021muttmpredictor,
+  title={MutTMPredictor: Robust and accurate cascade XGBoost classifier for prediction of mutations in transmembrane proteins},
+  author={Ge, Fang and Zhu, Yi-Heng and Xu, Jian and Muhammad, Arif and Song, Jiangning and Yu, Dong-Jun},
+  journal={Computational and Structural Biotechnology Journal},
+  volume={19},
+  pages={6400--6416},
+  year={2021},
+  publisher={Elsevier}
+}

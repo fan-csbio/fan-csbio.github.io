@@ -1,0 +1,9 @@
+@article{arif2022stackacpred,
+  title={StackACPred: prediction of anticancer peptides by integrating optimized multiple feature descriptors with stacked ensemble approach},
+  author={Arif, Muhammad and Ahmed, Saeed and Ge, Fang and Kabir, Muhammad and Khan, Yaser Daanial and Yu, Dong-Jun and Thafar, Maha},
+  journal={Chemometrics and Intelligent Laboratory Systems},
+  volume={220},
+  pages={104458},
+  year={2022},
+  publisher={Elsevier}
+}

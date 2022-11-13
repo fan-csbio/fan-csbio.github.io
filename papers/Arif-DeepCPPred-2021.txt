@@ -1,0 +1,10 @@
+@article{arif2021deepcppred,
+  title={DeepCPPred: a deep learning framework for the discrimination of cell-penetrating peptides and their uptake efficiencies},
+  author={Arif, Muhammad and Kabir, Muhammad and Ahmed, Saeed and Khan, Abid and Ge, Fang and Khelifi, Adel and Yu, Dong-Jun},
+  journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
+  volume={19},
+  number={5},
+  pages={2749--2759},
+  year={2021},
+  publisher={IEEE}
+}

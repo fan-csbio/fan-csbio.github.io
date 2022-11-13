@@ -1,0 +1,10 @@
+@article{chen2020sscpred,
+  title={SSCpred: single-sequence-based protein contact prediction using deep fully convolutional network},
+  author={Chen, Ming-Cai and Li, Yang and Zhu, Yi-Heng and Ge, Fang and Yu, Dong-Jun},
+  journal={Journal of chemical information and modeling},
+  volume={60},
+  number={6},
+  pages={3295--3303},
+  year={2020},
+  publisher={ACS Publications}
+}

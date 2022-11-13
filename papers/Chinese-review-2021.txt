@@ -1,0 +1,9 @@
+@article{葛芳2021非同义单核苷酸变异致病性预测研究综述,
+  title={非同义单核苷酸变异致病性预测研究综述},
+  author={葛芳 and 胡俊 and 朱一亨 and 於东军},
+  journal={南京理工大学学报},
+  volume={45},
+  number={1},
+  pages={1--17},
+  year={2021}
+}

@@ -1,0 +1,9 @@
+@article{ge2021deepnssnps,
+  title={DeepnsSNPs: Accurate prediction of non-synonymous single-nucleotide polymorphisms by combining multi-scale convolutional neural network and residue environment information},
+  author={Ge, Fang and Muhammad, Arif and Yu, Dong-Jun},
+  journal={Chemometrics and Intelligent Laboratory Systems},
+  volume={215},
+  pages={104326},
+  year={2021},
+  publisher={Elsevier}
+}

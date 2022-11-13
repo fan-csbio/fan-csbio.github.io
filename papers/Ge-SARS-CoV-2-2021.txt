@@ -1,0 +1,10 @@
+@inproceedings{ge2021functional,
+  title={Functional variants in human ACE2 can decrease its protein stability and may influence the binding with SARS-CoV-2},
+  author={Ge, Fang and Muhammad, Arif},
+  booktitle={Journal of Physics: Conference Series},
+  volume={1828},
+  number={1},
+  pages={012180},
+  year={2021},
+  organization={IOP Publishing}
+}

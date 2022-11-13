@@ -1,0 +1,10 @@
+@article{arif2020targetcpp,
+  title={TargetCPP: accurate prediction of cell-penetrating peptides from optimized multi-scale features using gradient boost decision tree},
+  author={Arif, Muhammad and Ahmad, Saeed and Ali, Farman and Fang, Ge and Li, Min and Yu, Dong-Jun},
+  journal={Journal of computer-aided molecular design},
+  volume={34},
+  number={8},
+  pages={841--856},
+  year={2020},
+  publisher={Springer}
+}

@@ -1,0 +1,6 @@
+@article{zhang2022csorf,
+  title={csORF-finder: an effective ensemble learning framework for accurate identification of multi-species coding short open reading frames},
+  author={Zhang, Meng and Zhao, Jian and Li, Chen and Ge, Fang and Wu, Jing and Jiang, Bin and Song, Jiangning and Song, Xiaofeng},
+  journal={Briefings in Bioinformatics},
+  year={2022}
+}

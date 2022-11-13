@@ -1,0 +1,10 @@
+@article{ge2022targetmm,
+  title={TargetMM: Accurate Missense Mutation Prediction by Utilizing Local and Global Sequence Information with Classifier Ensemble},
+  author={Ge, Fang and Hu, Jun and Zhu, Yi-Heng and Arif, Muhammad and Yu, Dong-Jun},
+  journal={Combinatorial Chemistry \& High Throughput Screening},
+  volume={25},
+  number={1},
+  pages={38--52},
+  year={2022},
+  publisher={Bentham Science Publishers}
+}

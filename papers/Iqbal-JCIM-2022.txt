@@ -1,0 +1,10 @@
+@article{iqbal2022prost,
+  title={PROST: AlphaFold2-aware Sequence-Based Predictor to Estimate Protein Stability Changes upon Missense Mutations},
+  author={Iqbal, Shahid and Ge, Fang and Li, Fuyi and Akutsu, Tatsuya and Zheng, Yuanting and Gasser, Robin B and Yu, Dong-Jun and Webb, Geoffrey I and Song, Jiangning},
+  journal={Journal of Chemical Information and Modeling},
+  volume={62},
+  number={17},
+  pages={4270--4282},
+  year={2022},
+  publisher={ACS Publications}
+}

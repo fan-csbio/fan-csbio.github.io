@@ -1,0 +1,10 @@
+@article{zhu2021accurate,
+  title={Accurate multistage prediction of protein crystallization propensity using deep-cascade forest with sequence-based features},
+  author={Zhu, Yi-Heng and Hu, Jun and Ge, Fang and Li, Fuyi and Song, Jiangning and Zhang, Yang and Yu, Dong-Jun},
+  journal={Briefings in Bioinformatics},
+  volume={22},
+  number={3},
+  pages={bbaa076},
+  year={2021},
+  publisher={Oxford University Press}
+}

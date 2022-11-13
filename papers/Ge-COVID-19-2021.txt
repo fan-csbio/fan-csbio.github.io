@@ -1,0 +1,10 @@
+@inproceedings{ge2021missense,
+  title={Missense variants in human ACE2 May influence its binding interaction with SARS-CoV-2 and infectivity of COVID-19},
+  author={Ge, Fang and Muhammad, Arif},
+  booktitle={Journal of Physics: Conference Series},
+  volume={1828},
+  number={1},
+  pages={012179},
+  year={2021},
+  organization={IOP Publishing}
+}
